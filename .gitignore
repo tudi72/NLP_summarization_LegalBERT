@@ -1,10 +1,15 @@
 # Byte-compiled / optimized / DLL files
+*.pth 
+wandb/
+API.py 
+
 __pycache__/
 *.py[cod]
 *$py.class
 
 # C extensions
 *.so
+resources/
 
 # Distribution / packaging
 .Python
